@@ -1,0 +1,12 @@
+hello world
+total 1.7M
+drwxr-xr-x 2 pi pi 4.0K Nov  1 22:17 .
+drwxr-xr-x 5 pi pi 4.0K Nov  1 21:34 ..
+-rw-r--r-- 1 pi pi 781K Aug 23 16:33 1342-0.txt
+-rw-r--r-- 1 pi pi  89K Sep 14  2016 41-0.txt
+-rw-r--r-- 1 pi pi 328K Oct 31 03:56 66632.txt.utf-8
+-rw-r--r-- 1 pi pi 439K Feb  1  2021 84-0.txt
+-rw-r--r-- 1 pi pi  15K Nov  1 21:51 commands.txt
+-rwxr-xr-x 1 pi pi   58 Nov  1 21:31 download.sh
+-rw-r--r-- 1 pi pi   12 Nov  1 22:18 err.txt
+-rw-r--r-- 1 pi pi  185 Nov  1 21:32 urls.txt
